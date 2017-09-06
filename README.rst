@@ -9,10 +9,9 @@ Example usage
 -------------
 
 .. code:: python
+	  
     from consulgevent import Consul
 
     # and then go on as usual
     consul = Consul()
     # ... and so on
-
-
